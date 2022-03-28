@@ -1,0 +1,10 @@
+root|DEBUG |debugging cpu information|24-03-22 18-49-36
+root|INFO |cpu time is : scputimes(user=1765.921875, system=1897.3125, idle=47660.421875, interrupt=110.03125, dpc=124.3125)%|24-03-22 18-49-36
+root|INFO |cpu percent:0|24-03-22 18-49-36
+root|INFO |cpu_count:4|24-03-22 18-49-36
+root|DEBUG |debugging ram memory|24-03-22 18-49-36
+root|INFO |ram usage:svmem(total=3723874304, available=1053528064, percent=71.7, used=2670346240, free=1053528064)%|24-03-22 18-49-36
+root|WARNING |ram used space in percentage  is 71:|24-03-22 18-49-36
+root|DEBUG |debugging swap memory|24-03-22 18-49-36
+root|INFO |swap memory is  sswap(total=2281701376, used=1106329600, free=1175371776, percent=48.5, sin=0, sout=0)%|24-03-22 18-49-36
+root|WARNING |swap memory is:48|24-03-22 18-49-36
